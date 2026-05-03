@@ -44,3 +44,6 @@ Rotary encoder support
 OLED display
 Wireless (Bluetooth) control
 Custom software interface
+
+
+![alt text](<Screenshot 2026-05-03 184403-1.png>) ![alt text](<Screenshot 2026-05-01 181248-1.png>)
